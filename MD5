@@ -1,0 +1,13 @@
+7813790e3ed88b323a5e7514d8d018f1 *DESCRIPTION
+c80b7172b8bbd72aa431bed897b6dd77 *LICENSE
+859eb050115c2c4912fbb23e90c04d07 *NAMESPACE
+51acf856091358f62e0c78f23ec8dff5 *NEWS.md
+234c17f204693576ab764da373ce25ff *R/brvm.R
+fd8b1ea07f1ac90726d0b41db5eff322 *man/brvm_actions.Rd
+c76c9089b2c1a9e73fb9315b46a2a304 *man/brvm_cours.Rd
+644521a40f38eeeadc76504890fb9c25 *man/brvm_dividendes.Rd
+c4ec7279d5fccef3b319049387c4f929 *man/brvm_indice.Rd
+8f7427ad71c1ffee37e125e139ddedbc *man/brvm_indices.Rd
+0e53042b239317876a0c37b46e3494ba *tests/testthat.R
+5a0102e277a73e5fba8ca4ddaac66e18 *tests/testthat/test-parse.R
+1ce1c3a2cf733f6ff7ad0fe47af449a0 *tests/testthat/test-reseau.R
